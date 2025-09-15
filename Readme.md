@@ -1,0 +1,1 @@
+Designed and implemented a smart, actionable dashboard using New Relic that provides real-time observability into a Kubernetes cluster. This dashboard should help DevOps and SRE teams quickly identify performance bottlenecks, resource inefficiencies, and potential failure points across Node , App, Deployment and Node Processes.
